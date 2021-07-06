@@ -1,0 +1,16 @@
+﻿@model IEnumerable <btlab4.Models.Course>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+
+<div class="row">
+    <ul>
+        @foreach (var course in Model)
+        {
+            <li>
+                @course.DateTime.ToString("dd/MM/yyyy HH:mm") - @course.Name
+            </li>
+        }
+    </ul>
+</div>
