@@ -101,14 +101,8 @@ H:\vu\NguyenHoangVu\btlab4\bin\Microsoft.Owin.Security.Twitter.xml
 H:\vu\NguyenHoangVu\btlab4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 H:\vu\NguyenHoangVu\btlab4\bin\Microsoft.Owin.Security.OAuth.xml
 H:\vu\NguyenHoangVu\btlab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\vu\NguyenHoangVu\btlab4\obj\Debug\btlab4.csprojAssemblyReference.cache
 H:\vu\NguyenHoangVu\btlab4\obj\Debug\btlab4.csproj.CoreCompileInputs.cache
 H:\vu\NguyenHoangVu\btlab4\obj\Debug\btlab4.csproj.CopyComplete
 H:\vu\NguyenHoangVu\btlab4\obj\Debug\btlab4.dll
 H:\vu\NguyenHoangVu\btlab4\obj\Debug\btlab4.pdb
-H:\vu\NguyenHoangVu\btlab4\bin\System.Net.Http.Formatting.dll
-H:\vu\NguyenHoangVu\btlab4\bin\System.Web.Http.dll
-H:\vu\NguyenHoangVu\btlab4\bin\System.Web.Http.WebHost.dll
-H:\vu\NguyenHoangVu\btlab4\bin\System.Net.Http.Formatting.xml
-H:\vu\NguyenHoangVu\btlab4\bin\System.Web.Http.xml
-H:\vu\NguyenHoangVu\btlab4\bin\System.Web.Http.WebHost.xml
-H:\vu\NguyenHoangVu\btlab4\obj\Debug\btlab4.csprojAssemblyReference.cache
